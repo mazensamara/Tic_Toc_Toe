@@ -2,7 +2,7 @@
 # for using a membrane keypad with the Raspberry Pi to play Tic-Tac-Toe
 
 # A module to control Raspberry Pi GPIO channels
-# use the following command: pip install RPi.GPIO
+# use the following command: sudo pip install RPi.GPIO
 
 ''' We will make the board using dictionary 
     in which keys will be the location(i.e : top-left,mid-right,etc.)
